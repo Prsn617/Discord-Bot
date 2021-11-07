@@ -73,4 +73,4 @@ async def hi(ctx):
   await ctx.send(f'Hello {ctx.message.author.name}, you look {compliments[random.randrange(len(compliments))]} today')
 
 keep_alive()
-client.run('ODI4NTkzNjg4MzUxNDczNzAz.YGr2AQ.9aH8HVmg1EEJUu0KZyLiOxOcXb4')
+client.run('sth-sth')
